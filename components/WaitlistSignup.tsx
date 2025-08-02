@@ -9,7 +9,7 @@ export default function WaitlistSignup() {
 
   const handleJoinWaitlist = async () => {
     console.log('Wallet:', address);
-    console.log('Base Name:', ensName || 'No Base Name found');
+    console.log('Base name:', ensName || 'No Base Name found');
     setJoined(true);
   };
 
