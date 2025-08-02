@@ -1,4 +1,3 @@
-
 import { useAccount, useEnsName } from 'wagmi';
 import { ConnectButton } from '@rainbow-me/rainbowkit';
 import { useState } from 'react';
